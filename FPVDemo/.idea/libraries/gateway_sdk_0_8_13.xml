@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gateway-sdk-0.8.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/gateway-sdk-0.8.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
